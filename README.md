@@ -8,7 +8,7 @@ This repo is for my some small scripts that might be useful for your [Cytoid](ht
 ### Usage
 
 ``` bash
-cytoid-repackager.sh path-to-Cytoid-level-folder level-id
+cytoid-repackager path-to-Cytoid-level-folder level-id
 ```
 Your `.cytoidlevel` file will be generated in your path-to-Cytoid-level-folder.
 
