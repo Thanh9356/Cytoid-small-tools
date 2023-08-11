@@ -1,6 +1,6 @@
 # Cytoid small tools
 
-This repo is for my some small scripts that might be useful for your Cytoid workflow. CC0 licensed.
+This repo is for my some small scripts that might be useful for your [Cytoid](https://cytoid.io) workflow. CC0 licensed.
 
 ## cytoid-repackager
 [cytoid-repackager](https://github.com/Thanh9356/Cytoid-small-tools/blob/main/cytoid-repackager) is a script that help you repackage your installed level.
